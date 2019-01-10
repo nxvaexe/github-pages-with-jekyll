@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Bienvenidos a mi página del tutorial
 
-I'm glad you are here. I plan to talk about ...
+Me llamo David Ventura Serrano y estudio CFGS de ASIR en el IES Gran Capitán.
